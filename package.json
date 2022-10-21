@@ -1,9 +1,10 @@
 {
-  "name": "MercadoLiebre",
+  "name": "mercadoliebre",
   "version": "1.0.0",
-  "description": "MercadoLibre",
+  "description": "mercadolibre",
   "main": "app.js",
   "scripts": {
+    "test": "echo \"Error: no test specificated\" && exit 1",
     "start": "node app.js"
   },
   "author": "",
